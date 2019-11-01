@@ -9,7 +9,7 @@ To use it libpcap devel headers must be installed on the system. On Fedora run
 the following command:
 
 ```
-$ sudo dnf install libpcap libcpap-devel
+$ sudo dnf install libpcap libpcap-devel
 ```
 
 ### Build
